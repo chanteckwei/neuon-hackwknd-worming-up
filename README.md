@@ -1,6 +1,6 @@
 # Worming Up
 
 ##### Members
-Chai Kok Chin, Chan Teck Wei, Chai Seng Kai, Saifuddin Tipu
+Chai Kok Chin, Chan Teck Wei, Ngian Seng Kai, Saifuddin Tipu
 
 ### Links
